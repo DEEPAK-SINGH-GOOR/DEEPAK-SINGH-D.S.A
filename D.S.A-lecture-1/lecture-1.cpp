@@ -43,5 +43,16 @@ main()
     cout << "The (/) of A and B is:" <<c4 <<endl;
     
     cout << "The (%) of A and B is: " << c5 << endl;
+	
+	
+//	 // Implicit type
+//	 int num1=10;
+//	 float num2=5.5;
+//	 float ans = num1+num2;
+//    // Explicit type
+//	 int num1=10;
+//	 float num2=5.5;
+//	 int ans = num1+(int)num2;
+//    	
 }
 
